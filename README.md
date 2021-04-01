@@ -13,6 +13,11 @@ All my favourite apps
 * [Visual Studio Code](https://code.visualstudio.com/) - A code editor redefined and optimized for building and debugging modern web and cloud applications.
 * [Strapi](https://www.strapi.io/) - The leading open-source headless CMS.
 * [Chevereto](https://chevereto.com/) - A self-hosted image hosting.
+* [Vercel](https://vercel.com/) - The best place to deploy any frontend app
+
+### Email
+
+* [Protonmail](http://protonmail.com/) - Secure email account
 
 ### Useful command tools
 
