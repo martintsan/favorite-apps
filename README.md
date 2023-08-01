@@ -23,3 +23,9 @@ All my favourite apps
 
 * [youtube-dl](https://youtube-dl.org/) - Video downloader
 * [annie](https://github.com/iawia002/annie) - Another video downloader
+
+### Icons
+
+* [Icones](https://icones.js.org/) - Icones by Antfu
+* [Iconfont](iconfont.cn/) - IconFont from Alimama
+* [SVGREPO](https://www.svgrepo.com/)
