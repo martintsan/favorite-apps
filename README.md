@@ -29,6 +29,7 @@ All my favourite apps
 * [Icones](https://icones.js.org/) - Icones by Antfu
 * [Iconfont](iconfont.cn/) - IconFont from Alimama
 * [SVGREPO](https://www.svgrepo.com/)
+* [Fontastic](https://app.fontastic.me)
 
 ### Design
 * [BgSub](https://bgsub.cn/) - Remove the image backgrounds by AI locally
